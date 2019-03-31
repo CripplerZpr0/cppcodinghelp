@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 using namespace std;
@@ -9,7 +8,7 @@ int main()
     int Hello;
     int Pokemons=0;
     int VideoGames=0;
-    int answer;
+    int answer=0;
     int randombs;
     //intro 
     cout<<"=============================\n";
