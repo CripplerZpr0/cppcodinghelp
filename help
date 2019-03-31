@@ -36,7 +36,7 @@ int main()
         else if(answer==2){
             VideoGames++;
         }
-    if(Pokemons=1){
+    if(Pokemons==1){
        cout<<"ur not cool and i hope u die :D\n";
         
     }
